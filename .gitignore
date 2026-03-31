@@ -1,0 +1,19 @@
+# Виртуальное окружение
+venv/
+ENV/
+env/
+
+# Личные данные
+.env
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Скриншоты дебага (чтобы не палить брони на гитхабе)
+debug_*.png
+debug_error.png
+
+# Папки IDE
+.vscode/
+.idea/
